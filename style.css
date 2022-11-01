@@ -1,0 +1,18 @@
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Zfc4-dHxCFirJfasi5x8S3IpAdT3f3BfMOekJNVu7iYK5YLeZt6ho8Tk50fVK9aGetU&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+canvas{
+  border: 10px rgb(255, 255, 255) solid;
+}
+
+button{
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 10px;
+  font-size: 20px;
+}
